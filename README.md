@@ -4,7 +4,7 @@
 
 **Live app:** https://kakumadigitalworkconnect.vercel.app
 **GitHub repository:** https://github.com/jamesdeng462/kakuma_digital_work_connect
-**Demo video:** YOUR-VIDEO-LINK
+**Demo video:** https://youtu.be/rfx6S7khH8w
 **SRS document:** [Software Requirements Specification](https://docs.google.com/document/d/1wRJMec7Icftdl1X-7rmqAMhzzV6NBSFyviQE8xigjcQ/edit?usp=sharing)
 **API reference (live):** https://kakumadigitalworkconnect.vercel.app/api/docs
 **Author:** James Giir Deng, African Leadership University
