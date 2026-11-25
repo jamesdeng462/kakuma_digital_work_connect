@@ -2,10 +2,11 @@
 
 > A full-stack, offline-ready platform that helps refugee and host-community youth in Kakuma learn digital skills, earn verifiable certificates and find paid remote work.
 
-**Live app:** https://YOUR-APP-URL.vercel.app
+**Live app:** https://kakumadigitalworkconnect.vercel.app
+**GitHub repository:** https://github.com/jamesdeng462/kakuma_digital_work_connect
 **Demo video:** YOUR-VIDEO-LINK
 **SRS document:** [Software Requirements Specification](https://docs.google.com/document/d/1PuuIoGOQ4uyz01imt_aKM3joYxFdismVPoxqQ8F-OxU/edit?usp=sharing)
-**API reference (live):** https://YOUR-APP-URL.vercel.app/api/docs
+**API reference (live):** https://kakumadigitalworkconnect.vercel.app/api/docs
 **Author:** James Giir Deng, African Leadership University
 
 ---
@@ -180,8 +181,8 @@ Every demo account uses the password **`Demo1234!`**. You can also log in with o
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/kakuma-digital-work-connect.git
-cd kakuma-digital-work-connect
+git clone https://github.com/jamesdeng462/kakuma_digital_work_connect.git
+cd kakuma_digital_work_connect
 ```
 
 **Step 2: Install dependencies** (1–2 minutes)
